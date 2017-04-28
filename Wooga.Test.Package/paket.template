@@ -1,0 +1,6 @@
+type file
+id Wooga.Test.Package
+authors Wooga
+owners Wooga
+description
+    Test Package
